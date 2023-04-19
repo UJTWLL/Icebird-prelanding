@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Icebird-prelanding/static/css/main.073c9b0a.css",
-    "main.js": "/Icebird-prelanding/static/js/main.7391191d.js",
+    "main.js": "/Icebird-prelanding/static/js/main.ceb8eb80.js",
     "static/js/787.bf55f3f6.chunk.js": "/Icebird-prelanding/static/js/787.bf55f3f6.chunk.js",
     "index.html": "/Icebird-prelanding/index.html",
     "main.073c9b0a.css.map": "/Icebird-prelanding/static/css/main.073c9b0a.css.map",
-    "main.7391191d.js.map": "/Icebird-prelanding/static/js/main.7391191d.js.map",
+    "main.ceb8eb80.js.map": "/Icebird-prelanding/static/js/main.ceb8eb80.js.map",
     "787.bf55f3f6.chunk.js.map": "/Icebird-prelanding/static/js/787.bf55f3f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7391191d.js"
+    "static/js/main.ceb8eb80.js"
   ]
 }
